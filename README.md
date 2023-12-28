@@ -10,9 +10,9 @@
 
 ## Sobre mí
 
-- ⭐ Github Star ⭐
-- 💻 Web Developer 
-- 🎓 Egresado de Analista Programador y Estudiante de Ing. en Informática
+- ⭐ Github Star <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="10" height="10">
+- 💻 Web Developer 💻 
+- 🎓 Egresado de Analista Programador y Estudiante de Ing. en Informática 🎓
 <br>
 
 <h3 align="left">Lenguajes y Herramientas que manejo:</h3>
