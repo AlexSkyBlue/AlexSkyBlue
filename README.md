@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)  -->
 
-## Sobre mi
+## Sobre mí
 
 - ⭐ Github Star ⭐
 - 💻 Web Developer 
@@ -61,7 +61,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>!-->
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis GitHub
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
