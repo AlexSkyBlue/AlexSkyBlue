@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy</h1>
+<h1 align="center">Hola <h1 width="200px">👋</h1>, soy</h1>
 </div>
 <img src="https://i.imgur.com/c7nNDVW.png" width="100%">
 
