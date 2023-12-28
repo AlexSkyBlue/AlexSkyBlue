@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="20" height="20"> AngularJS <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="20" height="20">
+- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15"> AngularJS <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15">
 - 💻 Web Developer 💻 
 - 🎓 Egresado de Analista Programador y Estudiante de Ing. en Informática 🎓
 <br>
