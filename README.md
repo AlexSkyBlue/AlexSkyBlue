@@ -67,6 +67,6 @@
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexSkyBlue&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexSkyBlue&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexSkyBlue&layout=compact&langs_count=8&theme=dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSkyBlue&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
 </a>
 </p>
