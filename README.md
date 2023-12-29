@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola 👋, soy</h1>
+<h1 align="center">Hola 👋🏼, soy</h1>
 </div>
 <img src="https://i.imgur.com/c7nNDVW.png" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexSkyBlue&label=Profile%20views&color=0e75b6&style=flat" alt="AlexSkyBlue" /> </p>
