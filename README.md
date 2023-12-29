@@ -81,6 +81,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexSkyBlue&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexSkyBlue&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSkyBlue&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexSkyBlue&" alt="AlexSkyBlue" /></p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexSkyBlue&theme=dark" alt="AlexSkyBlue" /></p>
 </a>
 </p>
