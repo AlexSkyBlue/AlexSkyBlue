@@ -20,21 +20,21 @@
 
 - 💻 Actualmente Desarrollo en AngularJS 💻 
 
-- 👨‍💻 Todos mis demos de código están disponibles en mi GitHub --> [AlexSkyBlue](https://www.github.com/AlexSkyBlue) 👨‍💻
+- 👨‍💻 Todos mis demos de código están disponibles en mi [GitHub](https://www.github.com/AlexSkyBlue) 👨‍💻
 
 - 📫 Me puedes escribir a **parraalex2001@gmail.com** 📫
 
-- 📄 Mi experiencia la puedes encontrar en [LinkedIn](https://www.linkedin.com/in/alex-parra-salinas/) 📄
+- 📄 Mi experiencia la puedes encontrar en mi [LinkedIn](https://www.linkedin.com/in/alex-parra-salinas/) 📄
 
 - ⚡ Fun fact **Soy nacido y críado en Chile** ⚡
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Contactate conmigo por:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sebasti%c3%a1n-contreras-bravo-a07a3847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alex-parra-salinas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Parra Salinas" height="30" width="40" /></a>
 </p>
 <br>
 
-<h3 align="left">Lenguajes y Herramientas que manejo:</h3>
+<h3 align="left">📖 Lenguajes y Herramientas que manejo:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <!--  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
