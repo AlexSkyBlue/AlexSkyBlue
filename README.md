@@ -26,11 +26,6 @@
 - 📄 Mi experiencia la puedes encontrar en mi [LinkedIn](https://www.linkedin.com/in/alex-parra-salinas/) 📄
 
 - ⚡ Fun fact **Soy nacido y críado en Chile** ⚡
-
-<h3 align="center">💬 Contactate conmigo por</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/alex-parra-salinas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Parra Salinas" height="30" width="40" /></a>
-</p>
 <br>
 
 <h3 align="left">📖 Lenguajes y Herramientas que manejo:</h3>
