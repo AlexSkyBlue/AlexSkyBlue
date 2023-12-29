@@ -10,9 +10,6 @@
 
 ## Sobre mí
 
-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15"> AngularJS <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15">
-
--  Estudiante de  🎓
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexSkyBlue&label=Profile%20views&color=0e75b6&style=flat" alt="AlexSkyBlue" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexSkyBlue" alt="AlexSkyBlue" /></a> </p>
@@ -23,11 +20,11 @@
 
 - 💻 Actualmente Desarrollo en AngularJS 💻 
 
-- 👨‍💻 Todos mis demos de código están disponibles en [https://www.github.com/AlexSkyBlue](https://www.github.com/AlexSkyBlue) 👨‍💻
+- 👨‍💻 Todos mis demos de código están disponibles en mi GitHub --> [AlexSkyBlue](https://www.github.com/AlexSkyBlue) 👨‍💻
 
 - 📫 Me puedes escribir a **parraalex2001@gmail.com** 📫
 
-- 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/alex-parra-salinas/](https://www.linkedin.com/in/alex-parra-salinas/) 📄
+- 📄 Mi experiencia la puedes encontrar en [LinkedIn](https://www.linkedin.com/in/alex-parra-salinas/) 📄
 
 - ⚡ Fun fact **Soy nacido y críado en Chile** ⚡
 
