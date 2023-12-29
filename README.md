@@ -11,8 +11,30 @@
 ## Sobre mí
 
 - <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15"> AngularJS <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f468-1f4bb.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="15" height="15">
-- 💻 Web Developer 💻 
-- 🎓 Egresado de Analista Programador y Estudiante de Ing. en Informática 🎓
+
+-  Estudiante de  🎓
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexSkyBlue&label=Profile%20views&color=0e75b6&style=flat" alt="AlexSkyBlue" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexSkyBlue" alt="AlexSkyBlue" /></a> </p>
+
+- 🔭 Actualmente trabajo en **FolderSoft** 🔭
+
+- 🎓 Egresado de Analista Programador y Estudio Ing. en Informática en **Duoc UC, San Joaquín** 🎓
+
+- 💻 Actualmente Desarrollo en AngularJS 💻 
+
+- 👨‍💻 Todos mis demos de código están disponibles en [https://www.github.com/AlexSkyBlue](https://www.github.com/AlexSkyBlue) 👨‍💻
+
+- 📫 Me puedes escribir a **parraalex2001@gmail.com** 📫
+
+- 📄 Mi experiencia la puedes encontrar en [https://www.linkedin.com/in/alex-parra-salinas/](https://www.linkedin.com/in/alex-parra-salinas/) 📄
+
+- ⚡ Fun fact **Soy nacido y críado en Chile** ⚡
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sebasti%c3%a1n-contreras-bravo-a07a3847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
+</p>
 <br>
 
 <h3 align="left">Lenguajes y Herramientas que manejo:</h3>
